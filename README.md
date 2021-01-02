@@ -5,4 +5,5 @@ Adding one more line here
 Adding 4th line
 
 Adding a line here in README in main branch., local repo
-Adding a line here as well
+Adding a line here as well in main branch, remote repo, coflicts solved
+
